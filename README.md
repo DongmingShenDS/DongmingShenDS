@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **DongmingShenDS/DongmingShenDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,16 +17,16 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently studying at MIT and am a passionate Machine Learning Specialist.
-- 🎓 I graduated from USC in 2023 with dual degrees in Computer Science & Applied Math.
-- 🔍 I'm actively engaged in researching and developing innovative machine learning models and applications.
+- 🔭 I’m currently a student at MIT and a dedicated Machine Learning Specialist.
+- 🎓 I graduated from USC in 2023, earning dual degrees in Computer Science and Applied Mathematics.
+- 🖥️ My experience includes researching and developing innovative machine learning models and applications.
+- 🔍 I am actively seeking a full-time position in related fields.
 
 ## 🛠 Skills
 
 - 💡 Machine Learning, Artificial Intelligence, Data Science
-- 📊 NLP, LLM, GenAI, RL, CV...
-- 🖥️ Programming in Python, C++, Java...
+- 📊 NLP, LLM, GenAI, RAG, Agents, RL, CV...
 
 ## 📈 GitHub Stats
 
-![Dongming's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongmingShenDS&size_weight=0.3&count_weight=0.7&layout=compact)
+![Dongming's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongmingShenDS&size_weight=0.3&count_weight=0.7&langs_count=8&layout=compact)
