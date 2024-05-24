@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-![Dongming's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongmingShenDS&size_weight=0.3&count_weight=0.7&langs_count=8&layout=compact)
+![Dongming's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongmingShenDS&size_weight=0.3&count_weight=0.7&langs_count=8&layout=compact&theme=transparent)
