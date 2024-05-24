@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm currently studying at MIT and am a passionate Machine Learning Specialist.
+- 🔭 I'm currently studying at MIT and am a passionate Machine Learning Specialist.
+- 🎓 I graduated from USC in 2023 with dual degrees in Computer Science & Applied Math.
 - 🔍 I'm actively engaged in researching and developing innovative machine learning models and applications.
 
 ## 🛠 Skills
@@ -30,6 +31,4 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-![Dongming's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongmingShenDS&layout=compact)
-[![Dongming's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongmingShenDS)](https://github.com/DongmingShenDS/github-readme-stats)
-
+![Dongming's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongmingShenDS&size_weight=0.3&count_weight=0.7&layout=compact)
