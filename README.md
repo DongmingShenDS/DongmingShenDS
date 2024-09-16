@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a student at MIT and a dedicated Machine Learning Specialist.
 - 🎓 I graduated from USC in 2023, earning dual degrees in Computer Science and Applied Mathematics.
 - 🖥️ My experience includes researching and developing innovative machine learning models and applications.
-- 🔍 I am actively seeking a full-time position in related fields.
 
 ## 🛠 Skills
 
